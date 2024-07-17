@@ -1,0 +1,51 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/home/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/home/page.css",
+      "static/chunks/app/home/page.js"
+    ],
+    "/movies/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/movies/page.css",
+      "static/chunks/app/movies/page.js"
+    ],
+    "/movie/[movieId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/movie/[movieId]/page.css",
+      "static/chunks/app/movie/[movieId]/page.js"
+    ],
+    "/watch/[media]/[mediaId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/watch/[media]/[mediaId]/page.css",
+      "static/chunks/app/watch/[media]/[mediaId]/page.js"
+    ],
+    "/series/[seriesId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/series/[seriesId]/page.css",
+      "static/chunks/app/series/[seriesId]/page.js"
+    ],
+    "/tv-series/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/tv-series/page.css",
+      "static/chunks/app/tv-series/page.js"
+    ]
+  }
+}
