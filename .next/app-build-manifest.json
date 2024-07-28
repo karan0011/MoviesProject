@@ -17,11 +17,17 @@
       "static/css/app/home/page.css",
       "static/chunks/app/home/page.js"
     ],
-    "/movie/[movieId]/page": [
+    "/movies/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/movie/[movieId]/page.css",
-      "static/chunks/app/movie/[movieId]/page.js"
+      "static/css/app/movies/page.css",
+      "static/chunks/app/movies/page.js"
+    ],
+    "/tv-series/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/tv-series/page.css",
+      "static/chunks/app/tv-series/page.js"
     ]
   }
 }
