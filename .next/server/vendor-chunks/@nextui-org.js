@@ -2748,7 +2748,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2757,17 +2757,17 @@ const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy
 const { __esModule, $$typeof } = proxy;
 const __default__ = proxy.default;
 
-const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#Button`);
+const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#Button`);
 
-const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#ButtonGroup`);
+const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#ButtonGroup`);
 
-const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#ButtonGroupProvider`);
+const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#ButtonGroupProvider`);
 
-const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#useButton`);
+const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#useButton`);
 
-const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#useButtonGroup`);
+const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#useButtonGroup`);
 
-const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\button\dist\index.mjs#useButtonGroupContext`);
+const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\button\dist\index.mjs#useButtonGroupContext`);
 
 
 /***/ }),
@@ -2789,7 +2789,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2798,17 +2798,17 @@ const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy
 const { __esModule, $$typeof } = proxy;
 const __default__ = proxy.default;
 
-const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#Pagination`);
+const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#Pagination`);
 
-const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationCursor`);
+const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationCursor`);
 
-const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationItem`);
+const e2 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationItem`);
 
-const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationItemType`);
+const e3 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#PaginationItemType`);
 
-const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#usePagination`);
+const e4 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#usePagination`);
 
-const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\node_modules\@nextui-org\pagination\dist\index.mjs#usePaginationItem`);
+const e5 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\node_modules\@nextui-org\pagination\dist\index.mjs#usePaginationItem`);
 
 
 /***/ })

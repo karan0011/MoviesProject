@@ -1,4 +1,4 @@
-// File: C:\Next-14-TMDB-Movie-Series-WebApp-master\Next-14-TMDB-Movie-Series-WebApp-master\src\app\home\page.tsx
+// File: C:\Next-14-TMDB-Movie-Series-WebApp-master\MoviesProject\src\app\home\page.tsx
 import * as entry from '../../../../src/app/home/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

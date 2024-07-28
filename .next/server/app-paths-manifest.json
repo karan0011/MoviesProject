@@ -1,8 +1,5 @@
 {
-  "/home/page": "app/home/page.js",
-  "/movies/page": "app/movies/page.js",
-  "/tv-series/page": "app/tv-series/page.js",
-  "/watch/[media]/[mediaId]/page": "app/watch/[media]/[mediaId]/page.js",
-  "/series/[seriesId]/page": "app/series/[seriesId]/page.js",
-  "/movie/[movieId]/page": "app/movie/[movieId]/page.js"
+  "/page": "app/page.js",
+  "/movie/[movieId]/page": "app/movie/[movieId]/page.js",
+  "/home/page": "app/home/page.js"
 }
